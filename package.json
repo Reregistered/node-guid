@@ -1,0 +1,19 @@
+{
+    "name": "node-guid",
+    "description": "Module to create guid/uuids",
+    "version": "1",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/Reregistered/node-guid"
+    },
+    "main" : "./index.js",
+    "licenses" : [
+        {
+            "type": "MIT",
+        }
+    ],
+    "dependencies": {
+    },
+    "engine": [ "node >=0.3.0" ],
+    "keywords": ["guid", "uuid"]
+}
