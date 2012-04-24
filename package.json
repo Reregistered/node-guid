@@ -3,6 +3,10 @@
   , "version": "0.0.1"
   , "description": "Simple guid generator"
   , "keywords": ["guid", "uuid"]
+  , "repository" :
+	  { "type" : "git"
+	    , "url" : "http://github.com/reregistered/node-guid.git"
+	  }
   , "author": "Dov Amihod "
   , "dependencies": {
   }
